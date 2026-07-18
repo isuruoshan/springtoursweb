@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /submit-inquiry.php
+
+Sitemap: https://www.springtours.lk/sitemap.xml
